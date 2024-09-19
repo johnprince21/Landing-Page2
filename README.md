@@ -1,0 +1,1 @@
+This landing page is created with the help of HTML and Tailwind CSS
